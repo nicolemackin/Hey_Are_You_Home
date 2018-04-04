@@ -1,10 +1,13 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Level_Select","order":1,"parentId":0,"scrollX":722.25,"scrollY":568.5},
-{"id":2,"expanded":false,"name":"Level_1","order":2,"parentId":1,"scrollX":710.25,"scrollY":574.5},
+{"id":2,"expanded":false,"name":"Level_1","order":2,"parentId":1,"scrollX":710.25,"scrollY":568.5},
 {"id":3,"expanded":false,"name":"Player_House","order":3,"parentId":2,"scrollX":722.25,"scrollY":568.5},
 {"id":4,"expanded":false,"name":"Postal_Office","order":4,"parentId":2,"scrollX":722.25,"scrollY":568.5},
 {"id":5,"expanded":false,"name":"level_02","order":5,"parentId":1,"scrollX":722.25,"scrollY":568.5},
 {"id":6,"expanded":false,"name":"TelegraphPlace","order":6,"parentId":5,"scrollX":722.25,"scrollY":568.5},
-{"id":7,"expanded":false,"name":"Level_03","order":7,"parentId":1,"scrollX":722.25,"scrollY":556.5}
+{"id":7,"expanded":true,"name":"Level_03","order":7,"parentId":1,"scrollX":1061.25,"scrollY":556.5},
+{"id":8,"expanded":false,"name":"Player_Home","order":8,"parentId":7,"scrollX":722.25,"scrollY":568.5},
+{"id":9,"expanded":false,"name":"Level_04","order":9,"parentId":1,"scrollX":722.25,"scrollY":568.5},
+{"id":10,"expanded":false,"name":"Player_Home","order":10,"parentId":9,"scrollX":722.25,"scrollY":568.5}
 ]
